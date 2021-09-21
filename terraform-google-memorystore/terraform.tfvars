@@ -1,4 +1,4 @@
-# project              = cloubuild-with-himan
+# project              = cloubuild-projectname
 # network              = default
 # subnetwork           = default
 # region               = us-east1
